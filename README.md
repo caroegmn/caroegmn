@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caroegmn
-- 👀 I’m interested in bioinformatics and economics 
+- 👀 I’m interested in bioinformatics and biology 
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to tips to learn or train my skills in programming 
 
